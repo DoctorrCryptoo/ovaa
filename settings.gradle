@@ -13,3 +13,4 @@ dependencyResolutionManagement {
 }
 rootProject.name='Oversecured Vulnerable Android App'
 include ':app'
+{}
